@@ -1,0 +1,4 @@
+<resources>
+    <string name="api_base_url">http://sva.gold360.com.br/</string>
+    <string name="product_id">1</string>
+</resources>
